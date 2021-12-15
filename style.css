@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+    font-family: monospace;
+    font-size: 25px;   
+    color: black;
+
+}
+
+
+.coiso {
+    display: block;
+    align-content: center;
+    background-color: #ff4d4d;
+    border-radius: 5px;
+    width: 40%;
+    margin-top: 15%;
+    margin-left: 30%; 
+    color: ghostwhite;
+    display: block;
+    padding: 15px;
+}
+
+#generate {
+    color: blueviolet;
+    background-color: coral;
+}
+
+.copyy{
+    color: blueviolet;
+    background-color: coral;
+    }
+
+.outrocoiso {
+  
+    display: block;
+    padding: 10px;
+}
+
+
+body{
+    background-color: #ff9966;
+}
+
+.btncopy {
+    background-color: #ffcccc;
+    width: 500px;
+}
+
